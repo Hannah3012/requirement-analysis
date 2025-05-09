@@ -70,7 +70,7 @@ define **what** the system should do — the core features and behaviors:
 ## Non-Functional Requirements 🛡️
 
 describe **how** the system performs and maintains quality:
-**Examples** based on the booking managment project
+**Examples** based on the booking management project
 
 - **High Performance & Low Latency**: Fast response times using Redis (caching) and CDN (content delivery).
 - **Scalability**: Microservices architecture allows the system to scale individual components independently under high user traffic.
@@ -82,9 +82,17 @@ describe **how** the system performs and maintains quality:
 - **Security**: Sensitive operations like payments are handled via secure third-party integrations.
 - **Maintainability**: The microservices structure supports easier updates and maintenance of specific features or services.
 
+## Use Case Diagrams
+### What Are Use Case Diagrams?
+Use case diagrams are a type of UML (Unified Modeling Language) diagram used to visually represent the interactions between users (actors) and a system.
+They show what the system does (its functionality) from the user's perspective.
+
+### Benefits of Use Case Diagrams
+- To capture functional requirements of a system.
+- To show interactions between external users (actors) and the system.
+- To provide a high-level overview of how the system behaves.
+- To help both technical and non-technical stakeholders understand the system.
 
 
-
-
-
-
+    
+    

@@ -95,6 +95,25 @@ They show what the system does (its functionality) from the user's perspective.
 
 ### use case diagram link: ![Use Case Diagram](https://github.com/Hannah3012/requirement-analysis/view/main/alx-booking-uc.png)
 
+## Importance of Acceptance Criteria in Requirement Analysis
+- Clarity and Alignment: Ensures all stakeholders (developers, testers, clients) have a shared understanding of what’s expected.
+- **Guides Development:** Developers know exactly what to build and when it will be considered complete.
+- **Enables Testing:** Testers use acceptance criteria to create test cases and validate functionality.
+- **Prevents Scope Creep:** Sets clear boundaries for features, preventing unplanned additions.
+- **Improves Communication:** Serves as a communication bridge between business and technical teams.
+
+ **Example:** Acceptance Criteria for the Booking Management Project
+ **Feature:** Booking a Hotel Room
+
+**Acceptance Criteria:**
+- The customer must be able to search for hotels using filters like location, date, and price.
+- Available hotel rooms must be displayed with accurate pricing and availability.
+- Customer must be able to select a room, enter personal details, and proceed to payment.
+- The system must confirm the booking only after successful payment via a third-party payment service.
+- A confirmation message with booking details should be displayed and emailed to the customer.
+- Booking details must be retrievable through the "View Booking" feature.
+- Any booking must be saved to the booking database and synced with Redis and Cassandra for performance and archival.
+
 
 
     

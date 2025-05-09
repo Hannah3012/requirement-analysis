@@ -103,6 +103,7 @@ They show what the system does (its functionality) from the user's perspective.
 - **Improves Communication:** Serves as a communication bridge between business and technical teams.
 
  **Example:** Acceptance Criteria for the Booking Management Project
+ 
  **Feature:** Booking a Hotel Room
 
 **Acceptance Criteria:**

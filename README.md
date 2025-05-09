@@ -93,7 +93,7 @@ They show what the system does (its functionality) from the user's perspective.
 - To provide a high-level overview of how the system behaves.
 - To help both technical and non-technical stakeholders understand the system.
 
-### use case diagram link: ![Use Case Diagram]
+### use case diagram link: ![Use Case Diagram](https://github.com/Hannah3012/requirement-analysis/view/main/alx-booking-uc.png)
 
 
 

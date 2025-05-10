@@ -94,7 +94,6 @@ They show what the system does (its functionality) from the user's perspective.
 - To help both technical and non-technical stakeholders understand the system.
 
 ### use case diagram: 
-### booking managment system
 ![Use Case Diagram](https://github.com/Hannah3012/requirement-analysis/blob/main/alx-booking-uc.png)
 
 ## Importance of Acceptance Criteria in Requirement Analysis
